@@ -3,14 +3,19 @@
 List of topics covered :
 
 ```
-Virtualbox 
-Vagrant -
-        \ Different Vagrant provisioners - Shell - Puppet
+Virtualbox - https://www.virtualbox.org/wiki/Downloads - Download and install for your OS
+Vagrant - https://www.vagrantup.com/downloads.html - Download and install for your OS
+        |- Different Vagrant provisioners
+          |- Shell
+          |- Puppet
 
 ```
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+-
+-
+-
+
 
 ### Prerequisites
 
