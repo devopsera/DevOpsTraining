@@ -12,6 +12,14 @@ Vagrant - (https://www.vagrantup.com/downloads.html) - Download and install for 
           |- Shell
           |- Puppet
 
+Table, like this one :
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 ```
 First Header  | Second Header
