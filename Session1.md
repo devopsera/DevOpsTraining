@@ -2,14 +2,26 @@
 
 List of topics covered :
 
-```
-Virtualbox - [Named Link] (https://www.virtualbox.org/wiki/Downloads) - Download and install for your OS
-Vagrant - https://www.vagrantup.com/downloads.html - Download and install for your OS
-        |- Different Vagrant provisioners
+
+Virtualbox - (https://www.virtualbox.org/wiki/Downloads) - Download and install for your OS
+Vagrant - (https://www.vagrantup.com/downloads.html) - Download and install for your OS
+        
+
+
+|- Different Vagrant provisioners
           |- Shell
           |- Puppet
 
+
 ```
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+```
+
 [Named Link] (https://www.virtualbox.org/wiki/Downloads)
 
 ## Getting Started
