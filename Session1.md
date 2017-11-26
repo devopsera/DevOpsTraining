@@ -3,7 +3,8 @@
 List of topics covered :
 
 
-Virtualbox - (https://www.virtualbox.org/wiki/Downloads) - Download and install for your OS
+Virtualbox - (https://www.virtualbox.org/wiki/Downloads) - Download and install for your OS.
+
 Vagrant - (https://www.vagrantup.com/downloads.html) - Download and install for your OS
         
 
